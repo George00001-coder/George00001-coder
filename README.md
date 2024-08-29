@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @George00001-coder
+- 👋 Hi, I’m @George-Lebbie-00001-coder
 - 👀 I’m interested in Full Stack Web Development and Linux
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on everyone that will help me advance my knowledge, and also that has passion for development
+- 💞️ I’m looking forward to collaborate with anyone
 - 📫 How to reach me on emails: georgelebbie24@gmail.com / georgelebbie01@yahoo.com  Phone Number:079535983/034935811
 
 <!---
